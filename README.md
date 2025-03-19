@@ -56,8 +56,6 @@ This project conducts an in-depth **inventory and sales analysis** of a retail s
 - **Scalability**: Optimize queries for larger datasets.
 - **Real-time Data Processing**: Integrate real-time sales data for dynamic inventory tracking.
 
-```
-
 ## 🏆 About the Developer
 👋 Hi, I’m **Vedanti Patil**, a passionate data scientist and software developer specializing in **data-driven decision-making, AI, and automation.**
 
